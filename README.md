@@ -20,7 +20,7 @@
 #12-cerrar el navegador
 #
 #SEGUNDO CASO
-#1-entra a amazon.com
+#1-entrar a amazon.com
 #2-ir a la barra de busqueda
 #3-escribir: 6S GSM Desbloqueado (Renovado), AT&T / T-Mobile, Rose gold
 #4-hacer click en el boton buscar
